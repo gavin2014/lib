@@ -8,7 +8,6 @@ import (
 	"strconv"
 	"time"
 
-	"git.9885.net/lib/go/dbr/dialect"
 )
 
 // Open creates a Connection.
