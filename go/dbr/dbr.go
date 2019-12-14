@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"strconv"
 	"time"
-
+	"lib/go/dbr/dialect"
 )
 
 // Open creates a Connection.
